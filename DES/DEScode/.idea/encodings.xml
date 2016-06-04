@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/DESTool.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/DESTool.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DESToolDlg.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/DESToolDlg.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/ReadMe.txt" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/stdafx.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/stdafx.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/targetver.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/yxyDES2.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/yxyDES2.h" charset="GB2312" />
+  </component>
+</project>
