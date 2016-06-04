@@ -1,0 +1,6 @@
+项目说明：
+1、由于我的开发是在Mac平台开发，使用的是java语言，在windows平台可能会存在兼容性问题。
+2、PcapAnalyzer_windows_1_0_0.exe文件是用Mac平台的工具生成的exe文件，可能会存在兼容性问题
+3、如果老师机器上有安装java环境可直接运行PcapAnalyzer.jar文件
+4、resouces文件夹下是已经抓的两个pcap文件的包
+5、PcapAnalyzer文件夹下是项目的java源码
